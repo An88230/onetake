@@ -17,8 +17,8 @@
 [![Cases](https://img.shields.io/badge/Cases-10%20films-orange.svg)](cases/)
 [![Continuity](https://img.shields.io/badge/Continuity-measured%20per%20boundary-brightgreen.svg)](scripts/verify_promo.py)
 
-**Need commercial use?** [onetake Pro](https://onetakemotion.com) adds a commercial licence plus every film's source.
-**需要商用？** [onetake Pro](https://onetakemotion.com) 提供商业授权，以及每部片子的完整源码。
+**▶ See the films and get onetake Pro → [onetakemotion.com](https://onetakemotion.com)**
+**▶ 看成片、获取 onetake Pro → [onetakemotion.com](https://onetakemotion.com)**
 
 ![onetake launch](assets/hero.gif)
 
