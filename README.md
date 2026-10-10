@@ -83,51 +83,51 @@ Every case ships the finished film and a breakdown (concept, beat sheet, numbers
 films' source code is not included.
 
 <table>
+  <tr><th colspan="3" align="left">Concept ad</th></tr>
   <tr>
-    <td width="50%" align="center"><b>onetake launch</b><br/><img src="assets/cases/onetake-launch.gif" width="100%"/><br/>
-      <sub>Three prompts, three films, one take — each prompt visibly becomes its film</sub><br/>
-      <a href="cases/onetake-launch-30s/onetake-launch.mp4">▶ Film</a> | <a href="cases/onetake-launch-30s/README.md">📖 Breakdown</a></td>
-    <td width="50%" align="center"><b>domino</b><br/><img src="assets/cases/domino.gif" width="100%"/><br/>
+    <td width="33%" align="center"><b>domino</b><br/><img src="assets/cases/domino.gif" width="100%"/><br/>
       <sub>One phone is one pixel: 12,346 phones fall and a picture resolves, 1 → 100×100, one take in 3D</sub><br/>
       <a href="cases/domino-25s/domino.mp4">▶ Film</a> | <a href="cases/domino-25s/README.md">📖 Breakdown</a></td>
+    <td width="33%" align="center"><b>overlap</b><br/><img src="assets/cases/overlap.gif" width="100%"/><br/>
+      <sub>Two print passes slide into register — and an & appears that was hidden in both</sub><br/>
+      <a href="cases/overlap-15s/overlap.mp4">▶ Film</a> | <a href="cases/overlap-15s/README.md">📖 Breakdown</a></td>
+    <td width="33%" align="center"><b>unbroken</b><br/><img src="assets/cases/unbroken.gif" width="100%"/><br/>
+      <sub>One ink stroke that is never lifted: procedural brush, no textures</sub><br/>
+      <a href="cases/unbroken-15s/unbroken.mp4">▶ Film</a> | <a href="cases/unbroken-15s/README.md">📖 Breakdown</a></td>
   </tr>
+  <tr><th colspan="3" align="left">Launch film</th></tr>
   <tr>
-    <td align="center"><b>one-dot</b><br/><img src="assets/cases/one-dot.gif" width="100%"/><br/>
+    <td width="33%" align="center"><b>onetake launch</b><br/><img src="assets/cases/onetake-launch.gif" width="100%"/><br/>
+      <sub>Three prompts, three films, one take — each prompt visibly becomes its film</sub><br/>
+      <a href="cases/onetake-launch-30s/onetake-launch.mp4">▶ Film</a> | <a href="cases/onetake-launch-30s/README.md">📖 Breakdown</a></td>
+    <td width="33%" align="center"><b>one-dot</b><br/><img src="assets/cases/one-dot.gif" width="100%"/><br/>
       <sub>One dot is the whole film: caret → menu → loading ring → spring curve → the dot on the i</sub><br/>
       <a href="cases/one-dot-15s/one-dot.mp4">▶ Film</a> | <a href="cases/one-dot-15s/README.md">📖 Breakdown</a></td>
-    <td align="center"><b>knockon</b><br/><img src="assets/cases/knockon.gif" width="100%"/><br/>
-      <sub>A chain reaction: every beat is the collision that starts the next</sub><br/>
-      <a href="cases/knockon-15s/knockon.mp4">▶ Film</a> | <a href="cases/knockon-15s/README.md">📖 Breakdown</a></td>
-  </tr>
-  <tr>
-    <td align="center"><b>clearing</b><br/><img src="assets/cases/clearing.gif" width="100%"/><br/>
-      <sub>One zoom from a year to a free half hour — 1× to 300× and back, never a cut</sub><br/>
-      <a href="cases/clearing-15s/clearing.mp4">▶ Film</a> | <a href="cases/clearing-15s/README.md">📖 Breakdown</a></td>
-    <td align="center"><b>pith</b><br/><img src="assets/cases/pith.gif" width="100%"/><br/>
+    <td width="33%" align="center"><b>pith</b><br/><img src="assets/cases/pith.gif" width="100%"/><br/>
       <sub>The window grows out of one phosphor pixel: 440× → 0.52× in one move</sub><br/>
       <a href="cases/pith-21s/pith.mp4">▶ Film</a> | <a href="cases/pith-21s/README.md">📖 Breakdown</a></td>
   </tr>
+  <tr><th colspan="3" align="left">App promo</th></tr>
   <tr>
-    <td align="center"><b>ebb</b><br/><img src="assets/cases/ebb.gif" width="100%"/><br/>
+    <td width="33%" align="center"><b>knockon</b><br/><img src="assets/cases/knockon.gif" width="100%"/><br/>
+      <sub>A chain reaction: every beat is the collision that starts the next</sub><br/>
+      <a href="cases/knockon-15s/knockon.mp4">▶ Film</a> | <a href="cases/knockon-15s/README.md">📖 Breakdown</a></td>
+    <td width="33%" align="center"><b>clearing</b><br/><img src="assets/cases/clearing.gif" width="100%"/><br/>
+      <sub>One zoom from a year to a free half hour — 1× to 300× and back, never a cut</sub><br/>
+      <a href="cases/clearing-15s/clearing.mp4">▶ Film</a> | <a href="cases/clearing-15s/README.md">📖 Breakdown</a></td>
+    <td width="33%" align="center"><b>ebb</b><br/><img src="assets/cases/ebb.gif" width="100%"/><br/>
       <sub>A field of light carries the take through five places; each flood drains onto the next</sub><br/>
       <a href="cases/ebb-15s/ebb.mp4">▶ Film</a> | <a href="cases/ebb-15s/README.md">📖 Breakdown</a></td>
-    <td align="center"><b>overlap</b><br/><img src="assets/cases/overlap.gif" width="100%"/><br/>
-      <sub>Two print passes slide into register — and an & appears that was hidden in both</sub><br/>
-      <a href="cases/overlap-15s/overlap.mp4">▶ Film</a> | <a href="cases/overlap-15s/README.md">📖 Breakdown</a></td>
   </tr>
+  <tr><th colspan="3" align="left">Feature demo</th></tr>
   <tr>
-    <td align="center"><b>unbroken</b><br/><img src="assets/cases/unbroken.gif" width="100%"/><br/>
-      <sub>One ink stroke that is never lifted: procedural brush, no textures</sub><br/>
-      <a href="cases/unbroken-15s/unbroken.mp4">▶ Film</a> | <a href="cases/unbroken-15s/README.md">📖 Breakdown</a></td>
-    <td align="center"><b>motion-web</b><br/><img src="assets/cases/motion-web.gif" width="100%"/><br/>
-      <sub>Where the rhythm rules came from: small UI, big ground, rests, then a burst</sub><br/>
-      <a href="cases/motion-web-15s/motion-web.mp4">▶ Film</a> | <a href="cases/motion-web-15s/README.md">📖 Breakdown</a></td>
-  </tr>
-  <tr>
-    <td align="center"><b>skill-demo</b><br/><img src="assets/cases/skill-demo.gif" width="100%"/><br/>
+    <td width="33%" align="center"><b>skill-demo</b><br/><img src="assets/cases/skill-demo.gif" width="100%"/><br/>
       <sub>An operation demo from nothing: the chosen menu row flies into the input as a chip, and on from there</sub><br/>
       <a href="cases/skill-demo-15s/skill-demo.mp4">▶ Film</a> | <a href="cases/skill-demo-15s/README.md">📖 Breakdown</a></td>
-    <td></td>
+    <td width="33%" align="center"><b>motion-web</b><br/><img src="assets/cases/motion-web.gif" width="100%"/><br/>
+      <sub>Where the rhythm rules came from: small UI, big ground, rests, then a burst</sub><br/>
+      <a href="cases/motion-web-15s/motion-web.mp4">▶ Film</a> | <a href="cases/motion-web-15s/README.md">📖 Breakdown</a></td>
+    <td width="33%"></td>
   </tr>
 </table>
 
