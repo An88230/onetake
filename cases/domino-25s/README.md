@@ -14,8 +14,8 @@ chain grows: 1 → 3×3 → 10×10 → 32×32 (dark until the drop) → 100×100
 showing the whole picture, which winks and goes dark on the last hit. 12,346 phones.
 
 Made with a coding agent driving Blender (the model) and three.js (12,346 instances, the chain as a pure function of
-time), rendered frame by frame with shutter motion blur. Music: *Call Me (Instrumental)* — Ariel Shalom, an Artlist
-Original.
+time), rendered frame by frame with shutter motion blur. It was cut to *Call Me (Instrumental)* — Ariel Shalom, an
+Artlist Original — but the track is licensed, not shipped: `domino.mp4` plays on the foley and the film's own notes alone.
 
 ## Beat sheet (film time; grid 140 BPM, `beat(n) = 0.029 + n·60/140`)
 
@@ -68,6 +68,6 @@ Original.
 | `vendor/three-entry.js` | what the IIFE bundle exports |
 | `blender/` | `bmcp.py` (the MCP socket client), `reset.py`, `p18_model.py` (the measured model, three LODs), `export_glb.py`, `lookdev.py` |
 | `dump_events.py` → `events.json` | the comp's `__events()` |
-| `score.py` → `mix.wav` | foley + music + master. Needs `music/call_me.m4a` |
+| `score.py` → `mix.wav` | foley + the film's own notes + master; adds the track only if `music/call_me.m4a` is present |
 | `domino.mp4` | v8, 1080p30 |
 | `drafts/stills_v8_tree.png` | the FPV ride and pull-back, 8.3–12.8 s |
