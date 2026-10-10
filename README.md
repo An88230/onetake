@@ -19,6 +19,7 @@
 
 **▶ See the films and get onetake Pro → [onetakemotion.com](https://onetakemotion.com)**
 **▶ 看成片、获取 onetake Pro → [onetakemotion.com](https://onetakemotion.com)**
+**▶ New films every week → [@paojiaofty](https://x.com/paojiaofty) on X**
 
 ![onetake launch](assets/hero.gif)
 
