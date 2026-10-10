@@ -14,7 +14,7 @@
 
 [![License: PolyForm Noncommercial](https://img.shields.io/badge/License-PolyForm%20Noncommercial%201.0.0-lightgrey.svg)](LICENSE)
 [![Type](https://img.shields.io/badge/Type-Agent%20Skill-333.svg)](SKILL.md)
-[![Cases](https://img.shields.io/badge/Cases-10%20films-orange.svg)](cases/)
+[![Cases](https://img.shields.io/badge/Cases-11%20films-orange.svg)](cases/)
 [![Continuity](https://img.shields.io/badge/Continuity-measured%20per%20boundary-brightgreen.svg)](scripts/verify_promo.py)
 
 **▶ See the films and get onetake Pro → [onetakemotion.com](https://onetakemotion.com)**
@@ -122,6 +122,12 @@ films' source code is not included.
     <td align="center"><b>skill-demo</b><br/><img src="assets/cases/skill-demo.gif" width="100%"/><br/>
       <sub>An operation demo from nothing: the chosen menu row flies into the input as a chip, and on from there</sub><br/>
       <a href="cases/skill-demo-15s/skill-demo.mp4">▶ Film</a> | <a href="cases/skill-demo-15s/README.md">📖 Breakdown</a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>domino</b><br/><img src="assets/cases/domino.gif" width="100%"/><br/>
+      <sub>One phone is one pixel: 12,346 phones fall and a picture resolves, 1 → 100×100, one take in 3D</sub><br/>
+      <a href="cases/domino-25s/domino.mp4">▶ Film</a> | <a href="cases/domino-25s/README.md">📖 Breakdown</a></td>
+    <td></td>
   </tr>
 </table>
 
