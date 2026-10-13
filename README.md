@@ -91,9 +91,9 @@ films' source code is not included.
     <td width="33%" align="center"><b>overlap</b><br/><img src="assets/cases/overlap.gif" width="100%"/><br/>
       <sub>Two print passes slide into register — and an & appears that was hidden in both</sub><br/>
       <a href="cases/overlap-15s/overlap.mp4">▶ Film</a> | <a href="cases/overlap-15s/README.md">📖 Breakdown</a></td>
-    <td width="33%" align="center"><b>unbroken</b><br/><img src="assets/cases/unbroken.gif" width="100%"/><br/>
-      <sub>One ink stroke that is never lifted: procedural brush, no textures</sub><br/>
-      <a href="cases/unbroken-15s/unbroken.mp4">▶ Film</a> | <a href="cases/unbroken-15s/README.md">📖 Breakdown</a></td>
+    <td width="33%" align="center"><b>infra</b><br/><img src="assets/cases/infra.gif" width="100%"/><br/>
+      <sub>Every image starts as heat: a thermal field resolves block by block and cools into the photo</sub><br/>
+      <a href="cases/infra-25s/infra.mp4">▶ Film</a> | <a href="cases/infra-25s/README.md">📖 Breakdown</a></td>
   </tr>
   <tr><th colspan="3" align="left">Launch film</th></tr>
   <tr>
